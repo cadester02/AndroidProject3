@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorSecondary">#03DAC5</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="grayCatButton">#2b2b2b</color>
+    <color name="propellerCatButton">#168421</color>
+    <color name="pikachuButton">#b79a26</color>
+</resources>
